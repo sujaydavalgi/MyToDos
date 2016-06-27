@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My ToDos</string>
+    <string name="dialog_add_task_title">Add a New Task</string>
+    <string name="dialog_add_task_text">Enter the task</string>
+    <string name="add_task">Add task</string>
+    <string name="cancel_task">Cancel</string>
+
+    <integer name="REQUEST_CODE_EDIT">200</integer>
+    <integer name="RESULT_DELETE">4</integer>
+</resources>
